@@ -1,22 +1,17 @@
-
+li{
+    font-size: 17px;
+}
+p{
+    font-size: 17px;
+}
 h3{
     color: rgb(253, 197, 55);
     padding-bottom: 20px;
 }
-h5{
+h4{
     color: rgb(253, 197, 55);
 }
-.photo{
-    margin-left: 80%;
-    margin-top: -20%;
-    border:solid;
-    border-color: rgb(253, 197, 55);
-    border-radius: 100px 100px 30px 100px;
-}
-.details{
-    display: inline-block;
-    margin-left: 20px;
-}
+
 
 
 
